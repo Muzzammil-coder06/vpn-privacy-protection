@@ -14,7 +14,7 @@ Screenshots include:
 - IP address before and after VPN use
 
 ## 📄 Report
-Detailed report is in `report/vpn_report.md`.
+Detailed report is in `vpn_report.md`.
 
 ## 🔒 Key Learnings
 - VPN encrypts internet traffic using AES-256 encryption.
